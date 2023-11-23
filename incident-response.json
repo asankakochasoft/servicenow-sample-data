@@ -2,6 +2,7 @@
     "result": [
         {
             "severity": "3",
+            "short_description": "Unable to connect to email",
             "closed_at": "2016-12-14 02:46:44",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ebd7da9fe198100f92cc8d1d2154e",
@@ -26,6 +27,7 @@
         },
         {
             "severity": "3",
+            "short_description": "My computer is not detecting the headphone device",
             "closed_at": "2018-12-10 03:29:08",
             "assignment_group": "",
             "impact": "2",
@@ -44,6 +46,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Reset my password",
             "closed_at": "2023-04-01 22:55:16",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -68,6 +71,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Need Oracle 10GR2 installed",
             "closed_at": "2023-03-30 22:54:55",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ee6fea9fe198100ada7950d0b1b73",
@@ -92,6 +96,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Need new Blackberry set up",
             "closed_at": "2023-04-05 23:02:54",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -116,6 +121,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Customer didn't receive eFax",
             "closed_at": "2023-04-01 23:12:02",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ee6fea9fe198100ada7950d0b1b73",
@@ -140,6 +146,7 @@
         },
         {
             "severity": "3",
+            "short_description": "EMAIL is slow when an attachment is involved",
             "closed_at": "2023-04-06 23:18:40",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -164,6 +171,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Missing my home directory",
             "closed_at": "2023-06-25 12:10:12",
             "assignment_group": "",
             "impact": "1",
@@ -185,6 +193,7 @@
         },
         {
             "severity": "3",
+            "short_description": "New employee hire",
             "closed_at": "2023-04-05 23:52:17",
             "assignment_group": "",
             "impact": "3",
@@ -206,6 +215,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Issue with a web page on wiki",
             "closed_at": "2023-04-06 23:53:08",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -230,6 +240,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Seem to have an issue with my hard drive...",
             "closed_at": "2023-03-10 23:56:53",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -254,6 +265,7 @@
         },
         {
             "severity": "3",
+            "short_description": "My disk is still having issues. Can't delete a file",
             "closed_at": "2023-03-22 23:58:58",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -278,6 +290,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Lost connection to the wireless network",
             "closed_at": "2023-04-02 01:02:14",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ebd7da9fe198100f92cc8d1d2154e",
@@ -302,6 +315,7 @@
         },
         {
             "severity": "3",
+            "short_description": "EMAIL Server Down Again",
             "closed_at": "2023-03-17 00:35:27",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -326,6 +340,7 @@
         },
         {
             "severity": "3",
+            "short_description": "File Server is 80% full - Needs upgrade",
             "closed_at": "2023-03-11 00:24:08",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -350,6 +365,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Does not look like a backup occurred last night",
             "closed_at": "2023-03-09 00:26:41",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -374,6 +390,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Reset my password",
             "closed_at": "2023-04-07 00:33:33",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -398,6 +415,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Issue with networking",
             "closed_at": "2023-04-05 00:34:21",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ebd7da9fe198100f92cc8d1d2154e",
@@ -422,6 +440,7 @@
         },
         {
             "severity": "3",
+            "short_description": "my PDF docs are all locked from editing",
             "closed_at": "2023-04-08 00:37:14",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -446,6 +465,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Hangs when trying to print VISIO document",
             "closed_at": "2023-04-07 00:36:40",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -470,6 +490,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Printer in my office is out of toner",
             "closed_at": "2023-04-06 23:08:57",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -494,6 +515,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Can't read email",
             "closed_at": "2023-03-25 23:10:06",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -518,6 +540,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Forgot email password",
             "closed_at": "2023-04-02 00:40:24",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -542,6 +565,7 @@
         },
         {
             "severity": "3",
+            "short_description": "The USB port on my PC stopped working",
             "closed_at": "2023-07-23 05:11:53",
             "assignment_group": "",
             "impact": "3",
@@ -560,6 +584,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Cannot sign into the company portal app",
             "closed_at": "2018-08-30 09:49:17",
             "assignment_group": "",
             "impact": "2",
@@ -578,6 +603,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Defect tracking tool is down.",
             "closed_at": "2018-12-10 03:29:09",
             "assignment_group": "",
             "impact": "3",
@@ -596,6 +622,7 @@
         },
         {
             "severity": "1",
+            "short_description": "CPU load high for over 10 minutes",
             "closed_at": "2023-06-25 12:10:12",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -620,6 +647,7 @@
         },
         {
             "severity": "3",
+            "short_description": "ATF:TEST2",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -638,6 +666,7 @@
         },
         {
             "severity": "3",
+            "short_description": "I can't launch my VPN client since the last software update",
             "closed_at": "2023-03-15 23:39:10",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -662,6 +691,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Rain is leaking on main DNS Server",
             "closed_at": "2023-03-21 23:40:40",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -686,6 +716,7 @@
         },
         {
             "severity": "3",
+            "short_description": "How do I create a sub-folder",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -710,6 +741,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Sales forecast spreadsheet is READ ONLY",
             "closed_at": "2023-03-12 23:44:21",
             "assignment_group": "",
             "impact": "1",
@@ -731,6 +763,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Can't launch 64-bit Windows 7 virtual machine",
             "closed_at": "2023-03-19 23:45:37",
             "assignment_group": "",
             "impact": "2",
@@ -752,6 +785,7 @@
         },
         {
             "severity": "3",
+            "short_description": "I need a replacement iPhone, please",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -773,6 +807,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Need to add more memory to laptop",
             "closed_at": "2023-03-21 23:55:10",
             "assignment_group": "",
             "impact": "1",
@@ -794,6 +829,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Please remove the latest hotfix from my PC",
             "closed_at": "2023-03-26 23:59:20",
             "assignment_group": "",
             "impact": "1",
@@ -815,6 +851,7 @@
         },
         {
             "severity": "3",
+            "short_description": "I can't get my weather report",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -839,6 +876,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Need help with Remedy. Can we configure UI?",
             "closed_at": "2023-02-27 00:30:02",
             "assignment_group": "",
             "impact": "1",
@@ -860,6 +898,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Request for a new service",
             "closed_at": "2023-03-27 00:35:39",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -884,6 +923,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Trouble getting to Oregon mail server",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ebd7da9fe198100f92cc8d1d2154e",
@@ -905,6 +945,7 @@
         },
         {
             "severity": "3",
+            "short_description": "JavaScript error on hiring page of corporate website",
             "closed_at": "",
             "assignment_group": "",
             "impact": "2",
@@ -926,6 +967,7 @@
         },
         {
             "severity": "3",
+            "short_description": "My desk phone does not work",
             "closed_at": "",
             "assignment_group": "",
             "impact": "1",
@@ -947,6 +989,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Can't log into SAP from my laptop today",
             "closed_at": "",
             "assignment_group": "",
             "impact": "1",
@@ -968,6 +1011,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Assessment :  ATF Assessor",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -986,6 +1030,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Unable to access the shared folder.",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -1004,6 +1049,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Performance problems with wifi",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -1022,6 +1068,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Unable to access team file share",
             "closed_at": "",
             "assignment_group": "",
             "impact": "2",
@@ -1040,6 +1087,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Need access to sales DB for the West",
             "closed_at": "",
             "assignment_group": "",
             "impact": "1",
@@ -1061,6 +1109,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Performance problems with email",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -1079,6 +1128,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Network file shares access issue",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ebd7da9fe198100f92cc8d1d2154e",
@@ -1103,6 +1153,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Unable to access the personal details section in payroll portal",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -1121,6 +1172,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Unable to post content on a Wiki page",
             "closed_at": "",
             "assignment_group": "",
             "impact": "2",
@@ -1139,6 +1191,7 @@
         },
         {
             "severity": "3",
+            "short_description": "ATF : Test1",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
@@ -1157,6 +1210,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Issue with email",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -1181,6 +1235,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Can't access SFA software",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -1202,6 +1257,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Having problems with Sales Tools performance",
             "closed_at": "",
             "assignment_group": "",
             "impact": "2",
@@ -1223,6 +1279,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Manager can't access SAP Controlling application",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -1247,6 +1304,7 @@
         },
         {
             "severity": "3",
+            "short_description": "SAP Financial Accounting application appears to be down",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -1271,6 +1329,7 @@
         },
         {
             "severity": "3",
+            "short_description": "The SAP HR application is not accessible",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a4dde73c6112278017a6a4baf547aa7",
@@ -1295,6 +1354,7 @@
         },
         {
             "severity": "3",
+            "short_description": "SAP Materials Management is slow or there is an outage",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -1316,6 +1376,7 @@
         },
         {
             "severity": "3",
+            "short_description": "SAP Sales app is not accessible",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/d625dccec0a8016700a222a0f7900d06",
@@ -1340,6 +1401,7 @@
         },
         {
             "severity": "1",
+            "short_description": "Wireless access is down in my area",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/287ebd7da9fe198100f92cc8d1d2154e",
@@ -1364,6 +1426,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Email server is down.",
             "closed_at": "",
             "assignment_group": "",
             "impact": "1",
@@ -1382,6 +1445,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Network storage unavailable",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -1406,6 +1470,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Can't access Exchange server - is it down?",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/8a5055c9c61122780043563ef53438e3",
@@ -1430,6 +1495,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Employee payroll application server is down.",
             "closed_at": "",
             "assignment_group": {
                 "link": "https://dev144612.service-now.com/api/now/table/sys_user_group/36c741fa731313005754660c4cf6a70d",
@@ -1451,6 +1517,7 @@
         },
         {
             "severity": "3",
+            "short_description": "Need access to the common drive.",
             "closed_at": "",
             "assignment_group": "",
             "impact": "3",
