@@ -1,1004 +1,904 @@
 {
     "result": [
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0875",
-        "created_on": "2023-05-06"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3498",
-        "created_on": "2023-07-17"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2113",
-        "created_on": "2024-02-24"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6524",
-        "created_on": "2023-02-27"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0068",
-        "created_on": "2023-03-09"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3149",
-        "created_on": "2023-06-05"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3874",
-        "created_on": "2024-01-31"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0167",
-        "created_on": "2023-05-15"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5982",
-        "created_on": "2023-12-15"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6051",
-        "created_on": "2023-05-23"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8312",
-        "created_on": "2024-01-19"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4546",
-        "created_on": "2023-09-10"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC9054",
-        "created_on": "2023-06-14"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4842",
-        "created_on": "2024-02-21"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
         "state": "Resolved",
         "category": "Hardware",
         "priority": "4 - Low",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC6120",
-        "created_on": "2023-09-09"
+        "number": "INC3723",
+        "created_on": "2023-10-22"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
+        "state": "New",
+        "category": "Hardware",
         "priority": "3 - Moderate",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC6392",
-        "created_on": "2023-08-10"
+        "number": "INC7759",
+        "created_on": "2023-12-29"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC2313",
-        "created_on": "2023-07-14"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
         "category": "Database",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC6709",
-        "created_on": "2023-03-13"
+        "number": "INC5032",
+        "created_on": "2023-10-05"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC2750",
-        "created_on": "2023-03-10"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0052",
-        "created_on": "2023-11-28"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8241",
-        "created_on": "2023-10-03"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9699",
-        "created_on": "2023-07-01"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0916",
-        "created_on": "2023-05-11"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4593",
-        "created_on": "2023-10-11"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC1134",
-        "created_on": "2023-12-04"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9633",
-        "created_on": "2023-05-09"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9473",
-        "created_on": "2023-10-27"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9612",
-        "created_on": "2023-03-21"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6996",
-        "created_on": "2024-02-25"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6041",
-        "created_on": "2023-07-05"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7122",
-        "created_on": "2023-09-08"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5239",
-        "created_on": "2023-12-30"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4948",
-        "created_on": "2024-01-10"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1294",
-        "created_on": "2023-03-06"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5262",
-        "created_on": "2023-04-21"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC2562",
-        "created_on": "2023-05-15"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9934",
-        "created_on": "2023-11-08"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6468",
-        "created_on": "2023-06-25"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3239",
-        "created_on": "2024-02-25"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0573",
-        "created_on": "2023-08-26"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4844",
-        "created_on": "2023-11-11"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1092",
-        "created_on": "2023-05-02"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8943",
-        "created_on": "2023-10-28"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4837",
-        "created_on": "2023-12-03"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3739",
-        "created_on": "2023-08-28"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0396",
-        "created_on": "2024-01-21"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7941",
-        "created_on": "2023-07-08"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4412",
-        "created_on": "2024-01-26"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0006",
-        "created_on": "2023-07-06"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2154",
-        "created_on": "2023-03-21"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8332",
-        "created_on": "2023-08-20"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
         "category": "Database",
         "priority": "3 - Moderate",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC5737",
-        "created_on": "2023-09-12"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8449",
-        "created_on": "2023-10-26"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7939",
-        "created_on": "2023-10-31"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC7064",
-        "created_on": "2023-11-02"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6017",
-        "created_on": "2023-08-18"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1468",
-        "created_on": "2023-10-14"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC9122",
-        "created_on": "2024-01-15"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC9693",
-        "created_on": "2023-06-30"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4901",
-        "created_on": "2023-10-08"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3853",
-        "created_on": "2024-01-01"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC5215",
-        "created_on": "2024-02-23"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5690",
-        "created_on": "2023-09-28"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4472",
-        "created_on": "2023-05-14"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC2524",
-        "created_on": "2023-03-10"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0344",
-        "created_on": "2023-10-29"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6137",
-        "created_on": "2023-06-15"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9472",
-        "created_on": "2023-04-02"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8522",
-        "created_on": "2023-07-29"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC2675",
-        "created_on": "2023-05-08"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1728",
-        "created_on": "2023-07-04"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8705",
+        "number": "INC8703",
         "created_on": "2023-07-12"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0835",
-        "created_on": "2023-08-16"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3503",
-        "created_on": "2023-10-04"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC1120",
-        "created_on": "2023-07-11"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
         "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3781",
+        "created_on": "2023-03-10"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC1503",
+        "created_on": "2023-05-19"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC7700",
+        "created_on": "2024-01-08"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC5422",
+        "created_on": "2023-02-28"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0341",
+        "created_on": "2023-06-03"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
         "priority": "1 - Critical",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC0456",
-        "created_on": "2023-05-07"
+        "number": "INC7911",
+        "created_on": "2023-08-31"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4172",
+        "created_on": "2023-04-22"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2780",
+        "created_on": "2023-08-25"
+    },
+    {
         "state": "Resolved",
         "category": "Hardware",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC5753",
-        "created_on": "2023-09-26"
+        "number": "INC9578",
+        "created_on": "2023-07-06"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4257",
+        "created_on": "2023-05-23"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6846",
+        "created_on": "2023-07-15"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8936",
+        "created_on": "2024-01-30"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4174",
+        "created_on": "2023-10-26"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0178",
+        "created_on": "2024-02-02"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0684",
+        "created_on": "2023-07-12"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2498",
+        "created_on": "2023-05-22"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6125",
+        "created_on": "2023-02-26"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1371",
+        "created_on": "2023-08-22"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC1771",
+        "created_on": "2023-10-01"
+    },
+    {
         "state": "Resolved",
         "category": "Hardware",
         "priority": "2 - High",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC6160",
-        "created_on": "2023-07-07"
+        "number": "INC1596",
+        "created_on": "2024-01-03"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6971",
+        "created_on": "2023-11-24"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC9583",
+        "created_on": "2023-09-22"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7041",
+        "created_on": "2023-10-19"
+    },
+    {
         "state": "New",
         "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC9965",
+        "created_on": "2023-06-20"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0991",
+        "created_on": "2023-09-19"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6250",
+        "created_on": "2023-07-30"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8445",
+        "created_on": "2024-02-19"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0327",
+        "created_on": "2023-04-18"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3709",
+        "created_on": "2023-03-09"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2787",
+        "created_on": "2023-06-08"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2294",
+        "created_on": "2023-08-19"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2469",
+        "created_on": "2023-10-21"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2798",
+        "created_on": "2024-01-30"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3918",
+        "created_on": "2023-06-21"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC7068",
+        "created_on": "2023-04-13"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC5984",
+        "created_on": "2023-06-20"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3505",
+        "created_on": "2023-06-03"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0599",
+        "created_on": "2024-02-20"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8984",
+        "created_on": "2023-05-06"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC5288",
+        "created_on": "2023-06-19"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC1069",
+        "created_on": "2023-09-19"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6651",
+        "created_on": "2024-01-27"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4887",
+        "created_on": "2023-10-09"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2797",
+        "created_on": "2023-10-19"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC9698",
+        "created_on": "2024-02-18"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6759",
+        "created_on": "2023-06-30"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7511",
+        "created_on": "2023-07-03"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4085",
+        "created_on": "2023-04-18"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8485",
+        "created_on": "2024-01-18"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4022",
+        "created_on": "2023-12-13"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4709",
+        "created_on": "2023-03-09"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8231",
+        "created_on": "2023-11-11"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6497",
+        "created_on": "2023-12-22"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3491",
+        "created_on": "2024-01-28"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0284",
+        "created_on": "2024-02-03"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4123",
+        "created_on": "2023-09-21"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC9859",
+        "created_on": "2023-10-04"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8362",
+        "created_on": "2023-04-20"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1175",
+        "created_on": "2023-05-26"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0708",
+        "created_on": "2023-12-14"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7948",
+        "created_on": "2024-01-29"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6101",
+        "created_on": "2023-07-05"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0324",
+        "created_on": "2023-07-17"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1299",
+        "created_on": "2023-10-23"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5900",
+        "created_on": "2023-03-08"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4733",
+        "created_on": "2023-08-02"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8527",
+        "created_on": "2023-11-08"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
         "priority": "1 - Critical",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
         "number": "INC2242",
-        "created_on": "2023-10-23"
+        "created_on": "2023-10-11"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3017",
-        "created_on": "2024-01-02"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2018",
-        "created_on": "2023-10-02"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2499",
-        "created_on": "2024-01-19"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
         "category": "Hardware",
         "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
+        "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC5391",
-        "created_on": "2024-02-17"
+        "number": "INC1700",
+        "created_on": "2024-02-08"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5787",
-        "created_on": "2023-06-11"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5686",
-        "created_on": "2023-09-14"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
         "state": "Resolved",
         "category": "Database",
         "priority": "1 - Critical",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC9665",
-        "created_on": "2023-11-29"
+        "number": "INC8275",
+        "created_on": "2023-07-13"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7528",
+        "created_on": "2024-01-09"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0065",
+        "created_on": "2023-11-15"
+    },
+    {
         "state": "New",
         "category": "Hardware",
         "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
+        "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC4596",
-        "created_on": "2023-09-12"
+        "number": "INC8140",
+        "created_on": "2023-12-21"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC7813",
+        "created_on": "2023-04-24"
+    },
+    {
+        "state": "Resolved",
         "category": "Hardware",
-        "priority": "3 - Moderate",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0957",
+        "created_on": "2024-01-28"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8020",
+        "created_on": "2023-08-07"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC6587",
+        "number": "INC9740",
+        "created_on": "2023-05-26"
+    },
+    {
+        "state": "New",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0919",
+        "created_on": "2023-05-24"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0838",
+        "created_on": "2023-08-13"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4846",
+        "created_on": "2024-01-07"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4220",
+        "created_on": "2023-09-20"
+    },
+    {
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3841",
         "created_on": "2023-08-16"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "Resolved",
-        "category": "Database",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3529",
+        "created_on": "2024-01-12"
+    },
+    {
+        "state": "Resolved",
+        "category": "Hardware",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC0037",
-        "created_on": "2024-01-20"
+        "number": "INC4538",
+        "created_on": "2023-04-29"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3789",
-        "created_on": "2023-12-20"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC9408",
-        "created_on": "2023-06-05"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
+        "category": "Hardware",
+        "priority": "2 - High",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC8359",
-        "created_on": "2023-04-11"
+        "number": "INC5009",
+        "created_on": "2023-11-12"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4919",
+        "created_on": "2023-10-14"
+    },
+    {
         "state": "New",
         "category": "Database",
         "priority": "1 - Critical",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC2615",
-        "created_on": "2024-01-23"
+        "number": "INC7031",
+        "created_on": "2023-04-26"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8633",
+        "created_on": "2023-09-06"
+    },
+    {
+        "state": "Resolved",
         "category": "Database",
         "priority": "4 - Low",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC4677",
-        "created_on": "2023-04-20"
+        "number": "INC4265",
+        "created_on": "2024-02-19"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
+        "state": "Resolved",
         "category": "Hardware",
-        "priority": "4 - Low",
+        "priority": "1 - Critical",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC4030",
-        "created_on": "2023-03-24"
+        "number": "INC1068",
+        "created_on": "2023-10-17"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
+        "state": "Resolved",
         "category": "Database",
         "priority": "3 - Moderate",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC2306",
-        "created_on": "2023-07-01"
+        "number": "INC5002",
+        "created_on": "2023-12-03"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "New",
         "category": "Database",
         "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3763",
-        "created_on": "2023-09-28"
-    },
-    {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC8380",
-        "created_on": "2023-10-02"
+        "number": "INC6496",
+        "created_on": "2024-01-31"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
-        "state": "New",
+        "state": "Resolved",
         "category": "Hardware",
         "priority": "2 - High",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC7067",
-        "created_on": "2024-01-15"
+        "number": "INC4934",
+        "created_on": "2023-10-09"
     },
     {
-        "type": "vfc-servicenow-incident-requests",
         "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1365",
+        "created_on": "2023-05-07"
+    },
+    {
+        "state": "New",
         "category": "Database",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC0736",
-        "created_on": "2024-02-22"
+        "number": "INC9478",
+        "created_on": "2023-11-11"
+    },
+    {
+        "state": "New",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3434",
+        "created_on": "2024-01-03"
     }
 ]
 }
