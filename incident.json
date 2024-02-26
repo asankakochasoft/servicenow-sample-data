@@ -1,904 +1,1004 @@
 {
     "result": [
     {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3723",
-        "created_on": "2023-10-22"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC7759",
-        "created_on": "2023-12-29"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5032",
-        "created_on": "2023-10-05"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8703",
-        "created_on": "2023-07-12"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3781",
-        "created_on": "2023-03-10"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1503",
-        "created_on": "2023-05-19"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC7700",
-        "created_on": "2024-01-08"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5422",
-        "created_on": "2023-02-28"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0341",
-        "created_on": "2023-06-03"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC7911",
-        "created_on": "2023-08-31"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4172",
-        "created_on": "2023-04-22"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2780",
-        "created_on": "2023-08-25"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9578",
-        "created_on": "2023-07-06"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4257",
-        "created_on": "2023-05-23"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6846",
-        "created_on": "2023-07-15"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8936",
-        "created_on": "2024-01-30"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4174",
-        "created_on": "2023-10-26"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0178",
-        "created_on": "2024-02-02"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0684",
-        "created_on": "2023-07-12"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2498",
-        "created_on": "2023-05-22"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC6125",
-        "created_on": "2023-02-26"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC1371",
-        "created_on": "2023-08-22"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1771",
-        "created_on": "2023-10-01"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1596",
-        "created_on": "2024-01-03"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC6971",
-        "created_on": "2023-11-24"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC9583",
-        "created_on": "2023-09-22"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7041",
-        "created_on": "2023-10-19"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9965",
-        "created_on": "2023-06-20"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0991",
-        "created_on": "2023-09-19"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC6250",
-        "created_on": "2023-07-30"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8445",
-        "created_on": "2024-02-19"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0327",
-        "created_on": "2023-04-18"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3709",
-        "created_on": "2023-03-09"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2787",
-        "created_on": "2023-06-08"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2294",
-        "created_on": "2023-08-19"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2469",
-        "created_on": "2023-10-21"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2798",
-        "created_on": "2024-01-30"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3918",
-        "created_on": "2023-06-21"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC7068",
-        "created_on": "2023-04-13"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5984",
-        "created_on": "2023-06-20"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC3505",
-        "created_on": "2023-06-03"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0599",
-        "created_on": "2024-02-20"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8984",
-        "created_on": "2023-05-06"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5288",
-        "created_on": "2023-06-19"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC1069",
-        "created_on": "2023-09-19"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC6651",
-        "created_on": "2024-01-27"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4887",
-        "created_on": "2023-10-09"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC2797",
-        "created_on": "2023-10-19"
-    },
-    {
+        "sys_id": "fd4049be-9814-461b-9d4f-dd00fb486851",
         "state": "New",
         "category": "Database",
         "priority": "4 - Low",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC9698",
-        "created_on": "2024-02-18"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6759",
-        "created_on": "2023-06-30"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7511",
-        "created_on": "2023-07-03"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4085",
-        "created_on": "2023-04-18"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8485",
-        "created_on": "2024-01-18"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4022",
-        "created_on": "2023-12-13"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4709",
-        "created_on": "2023-03-09"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8231",
-        "created_on": "2023-11-11"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC6497",
-        "created_on": "2023-12-22"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3491",
-        "created_on": "2024-01-28"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0284",
+        "number": "INC9248",
         "created_on": "2024-02-03"
     },
     {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4123",
-        "created_on": "2023-09-21"
-    },
-    {
-        "state": "Resolved",
+        "sys_id": "23c8bb76-e973-4632-a6ae-2a9b87bd2e73",
+        "state": "New",
         "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC9859",
-        "created_on": "2023-10-04"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8362",
-        "created_on": "2023-04-20"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC1175",
-        "created_on": "2023-05-26"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0708",
-        "created_on": "2023-12-14"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7948",
-        "created_on": "2024-01-29"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
         "priority": "4 - Low",
-        "short_description": "Issue with Database",
+        "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC6101",
-        "created_on": "2023-07-05"
+        "number": "INC4567",
+        "created_on": "2023-12-28"
     },
     {
-        "state": "Resolved",
-        "category": "Database",
+        "sys_id": "4e6f7841-263f-410e-a42a-6c4d0a3a464e",
+        "state": "New",
+        "category": "Hardware",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC0324",
+        "number": "INC2635",
+        "created_on": "2024-01-16"
+    },
+    {
+        "sys_id": "961e79f0-654b-48d1-8ded-8676253506c4",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6603",
+        "created_on": "2023-05-27"
+    },
+    {
+        "sys_id": "d3ac3d9e-2e5b-464f-a809-27952db298b5",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3355",
+        "created_on": "2023-12-20"
+    },
+    {
+        "sys_id": "0cfb8829-6d8e-4b04-9d40-c916e323f569",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC9826",
+        "created_on": "2023-12-12"
+    },
+    {
+        "sys_id": "8a9c6064-341f-4b8f-8ce7-6ec23b44d198",
+        "state": "New",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC9902",
+        "created_on": "2023-09-15"
+    },
+    {
+        "sys_id": "e2a8087e-c6c0-4016-9ceb-a1b8f1f0ee90",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC9427",
+        "created_on": "2023-11-27"
+    },
+    {
+        "sys_id": "e039e1bc-e0e6-4392-b571-f47bf8f892ab",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2886",
         "created_on": "2023-07-17"
     },
     {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC1299",
-        "created_on": "2023-10-23"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC5900",
-        "created_on": "2023-03-08"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4733",
-        "created_on": "2023-08-02"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "3 - Moderate",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC8527",
-        "created_on": "2023-11-08"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC2242",
-        "created_on": "2023-10-11"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC1700",
-        "created_on": "2024-02-08"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8275",
-        "created_on": "2023-07-13"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC7528",
-        "created_on": "2024-01-09"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0065",
-        "created_on": "2023-11-15"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8140",
-        "created_on": "2023-12-21"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC7813",
-        "created_on": "2023-04-24"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0957",
-        "created_on": "2024-01-28"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8020",
-        "created_on": "2023-08-07"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC9740",
-        "created_on": "2023-05-26"
-    },
-    {
-        "state": "New",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC0919",
-        "created_on": "2023-05-24"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC0838",
-        "created_on": "2023-08-13"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC4846",
-        "created_on": "2024-01-07"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "4 - Low",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4220",
-        "created_on": "2023-09-20"
-    },
-    {
+        "sys_id": "97e32118-7de8-4fad-9f52-aa3178db6f37",
         "state": "Resolved",
         "category": "Database",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC3841",
-        "created_on": "2023-08-16"
+        "number": "INC2502",
+        "created_on": "2023-08-08"
     },
     {
+        "sys_id": "fd2a7289-ed83-4582-861b-b01c324ee8da",
         "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC3529",
-        "created_on": "2024-01-12"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "5 - Scheduled",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4538",
-        "created_on": "2023-04-29"
-    },
-    {
-        "state": "Resolved",
-        "category": "Hardware",
-        "priority": "2 - High",
-        "short_description": "Issue with Hardware",
-        "assignment_group": "Group 01",
-        "number": "INC5009",
-        "created_on": "2023-11-12"
-    },
-    {
-        "state": "Resolved",
-        "category": "Database",
-        "priority": "2 - High",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC4919",
-        "created_on": "2023-10-14"
-    },
-    {
-        "state": "New",
         "category": "Database",
         "priority": "1 - Critical",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC7031",
-        "created_on": "2023-04-26"
-    },
-    {
-        "state": "New",
-        "category": "Database",
-        "priority": "1 - Critical",
-        "short_description": "Issue with Database",
-        "assignment_group": "Group 01",
-        "number": "INC8633",
+        "number": "INC6948",
         "created_on": "2023-09-06"
     },
     {
+        "sys_id": "90c6d9d2-f9d3-4323-a547-8145f9bea125",
         "state": "Resolved",
         "category": "Database",
         "priority": "4 - Low",
-        "short_description": "Issue with Hardware",
+        "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC4265",
-        "created_on": "2024-02-19"
+        "number": "INC8186",
+        "created_on": "2023-11-18"
     },
     {
+        "sys_id": "1e9e21b3-7482-4fba-b55f-7bc02dc8b7ad",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0274",
+        "created_on": "2024-01-01"
+    },
+    {
+        "sys_id": "c77afd72-6c1f-477f-9e39-377c7da98c8c",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5773",
+        "created_on": "2023-04-28"
+    },
+    {
+        "sys_id": "ec5a524e-5a6d-49a1-99da-717ac6d91a07",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7070",
+        "created_on": "2023-12-15"
+    },
+    {
+        "sys_id": "07bf4bee-2e1f-45ba-b4ab-765b2162e7d5",
         "state": "Resolved",
         "category": "Hardware",
         "priority": "1 - Critical",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC1068",
-        "created_on": "2023-10-17"
+        "number": "INC1706",
+        "created_on": "2023-06-06"
     },
     {
+        "sys_id": "6ed67fda-db93-4145-bd20-cad929924b3e",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4676",
+        "created_on": "2023-08-24"
+    },
+    {
+        "sys_id": "18c4dfcd-0d06-4cda-9090-9c24490e5adc",
         "state": "Resolved",
         "category": "Database",
-        "priority": "3 - Moderate",
+        "priority": "1 - Critical",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC5002",
-        "created_on": "2023-12-03"
+        "number": "INC6150",
+        "created_on": "2023-07-01"
     },
     {
+        "sys_id": "2bc90dc3-2dc4-4e15-9df4-4a8183aa397a",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3232",
+        "created_on": "2024-02-07"
+    },
+    {
+        "sys_id": "bd0e9fdb-d078-4067-9d58-31fd6558e7a8",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1101",
+        "created_on": "2023-06-04"
+    },
+    {
+        "sys_id": "841047cc-00a5-4985-ab44-c7bc00701241",
+        "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3982",
+        "created_on": "2023-05-30"
+    },
+    {
+        "sys_id": "cf23a71d-1be0-4333-8897-e3b399b74e73",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7083",
+        "created_on": "2023-03-05"
+    },
+    {
+        "sys_id": "1a77087b-f55b-4572-8d67-ef3b56f6b0d6",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1229",
+        "created_on": "2023-08-16"
+    },
+    {
+        "sys_id": "197b76f9-8cbf-40e2-a09f-2e32b27c1ac5",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8530",
+        "created_on": "2023-03-17"
+    },
+    {
+        "sys_id": "14d39120-4965-4872-b163-2037065b4d24",
         "state": "New",
         "category": "Database",
         "priority": "3 - Moderate",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC6496",
-        "created_on": "2024-01-31"
+        "number": "INC2787",
+        "created_on": "2023-03-13"
     },
     {
+        "sys_id": "ec51d55d-84af-4335-bf2f-1407e2af37eb",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3451",
+        "created_on": "2023-10-02"
+    },
+    {
+        "sys_id": "3da21a99-821e-44bc-aba3-5a18f9b83c43",
         "state": "Resolved",
         "category": "Hardware",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2277",
+        "created_on": "2024-02-08"
+    },
+    {
+        "sys_id": "7f7fcd44-8fb1-434b-a2b1-f8a376f2d71a",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC5951",
+        "created_on": "2023-03-03"
+    },
+    {
+        "sys_id": "a1917cf0-81e5-440a-9d52-9a992cc7a3fe",
+        "state": "Resolved",
+        "category": "Database",
         "priority": "2 - High",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC4934",
-        "created_on": "2023-10-09"
+        "number": "INC1512",
+        "created_on": "2023-06-14"
     },
     {
-        "state": "Resolved",
+        "sys_id": "a5e46213-36e1-43a6-882e-b59912a7e309",
+        "state": "New",
         "category": "Hardware",
-        "priority": "4 - Low",
+        "priority": "5 - Scheduled",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC1365",
-        "created_on": "2023-05-07"
+        "number": "INC7016",
+        "created_on": "2024-02-01"
     },
     {
+        "sys_id": "d69b0a8c-5e4a-41b3-a6e1-d6e33670760d",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6326",
+        "created_on": "2023-11-22"
+    },
+    {
+        "sys_id": "31b13dbb-0003-4504-b456-7ec310078841",
+        "state": "New",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6784",
+        "created_on": "2023-05-31"
+    },
+    {
+        "sys_id": "87f3ea1f-35f8-4ec7-910e-d888564c849c",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4627",
+        "created_on": "2023-04-13"
+    },
+    {
+        "sys_id": "7b1de727-72c9-4907-a5a5-89a37cd36cd8",
         "state": "New",
         "category": "Database",
         "priority": "5 - Scheduled",
         "short_description": "Issue with Hardware",
         "assignment_group": "Group 01",
-        "number": "INC9478",
-        "created_on": "2023-11-11"
+        "number": "INC2761",
+        "created_on": "2023-11-15"
     },
     {
+        "sys_id": "a3c114e9-e7a6-418f-9aee-70edfede7a33",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7489",
+        "created_on": "2023-09-12"
+    },
+    {
+        "sys_id": "fe59dcc9-cd2b-4008-8f37-b7339f0caf00",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC7755",
+        "created_on": "2023-10-16"
+    },
+    {
+        "sys_id": "65662da4-c965-47b4-a0d7-007404f74c29",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2525",
+        "created_on": "2023-04-11"
+    },
+    {
+        "sys_id": "9481387e-17a5-4ad2-9362-5c73e70df3f0",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0068",
+        "created_on": "2024-01-26"
+    },
+    {
+        "sys_id": "56bf6ec3-3473-4735-95b4-a8a47e436b4a",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8623",
+        "created_on": "2023-04-21"
+    },
+    {
+        "sys_id": "45503411-d4f7-4d64-b3d9-665fe36f37a8",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0321",
+        "created_on": "2024-01-19"
+    },
+    {
+        "sys_id": "e2fdae44-c8dc-400e-98b1-3252e5e660ea",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5572",
+        "created_on": "2023-12-17"
+    },
+    {
+        "sys_id": "fb8825cc-6ee0-42a7-8945-ce03f085c998",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC1861",
+        "created_on": "2024-02-13"
+    },
+    {
+        "sys_id": "ae4dc6b1-f335-44d2-9d80-abeb69547c56",
+        "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8670",
+        "created_on": "2023-03-04"
+    },
+    {
+        "sys_id": "b40cf3c2-9913-44d7-8787-068722c04592",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0836",
+        "created_on": "2024-01-16"
+    },
+    {
+        "sys_id": "23ae7ada-b43f-4409-8e88-a99f2abec426",
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0210",
+        "created_on": "2023-09-25"
+    },
+    {
+        "sys_id": "5907da6c-f577-4d8b-b80c-a2f898d7828b",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2860",
+        "created_on": "2023-09-16"
+    },
+    {
+        "sys_id": "8db51ac2-61ab-44c4-a681-f2ecf8d94fad",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4355",
+        "created_on": "2023-03-17"
+    },
+    {
+        "sys_id": "1003e8d1-821f-442e-9f2d-38024dbd3367",
+        "state": "New",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2776",
+        "created_on": "2023-05-06"
+    },
+    {
+        "sys_id": "1e31ffee-a398-47b6-b1ab-24b8b2be6d60",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4853",
+        "created_on": "2023-05-13"
+    },
+    {
+        "sys_id": "b1584633-9ebe-4b2d-9f26-eef1d8c54305",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3097",
+        "created_on": "2023-03-16"
+    },
+    {
+        "sys_id": "4991fee8-e6c4-45cb-a461-a8f4839e10b7",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4546",
+        "created_on": "2023-10-31"
+    },
+    {
+        "sys_id": "afbac47c-503b-47ac-916f-fa139e3c1239",
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6011",
+        "created_on": "2023-08-16"
+    },
+    {
+        "sys_id": "73ab8fa9-fc61-4610-95c5-58271f538281",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5714",
+        "created_on": "2023-05-14"
+    },
+    {
+        "sys_id": "06169570-83ae-440c-adf7-f13b9204476c",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC3298",
+        "created_on": "2023-04-15"
+    },
+    {
+        "sys_id": "ee6a93c5-f8b5-40ba-833e-222b6df5d86c",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4264",
+        "created_on": "2023-08-20"
+    },
+    {
+        "sys_id": "0a7596cc-29f5-4d80-8bbe-2a84fafaa589",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8092",
+        "created_on": "2023-05-14"
+    },
+    {
+        "sys_id": "57244b0b-c272-4bb7-bfb5-444002f7ef1c",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7455",
+        "created_on": "2023-05-15"
+    },
+    {
+        "sys_id": "cca5d13c-fd39-43a4-bbf0-b1d76e730d93",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC7491",
+        "created_on": "2023-12-23"
+    },
+    {
+        "sys_id": "13a97ad8-adc1-4889-a70a-2e00acca2710",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2759",
+        "created_on": "2023-04-24"
+    },
+    {
+        "sys_id": "e591de8d-addd-4385-85d1-7df4a68560bc",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3297",
+        "created_on": "2024-02-26"
+    },
+    {
+        "sys_id": "beb8acb0-6a14-4863-ad68-d35b6c9a9d13",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC8497",
+        "created_on": "2023-07-05"
+    },
+    {
+        "sys_id": "c92fd1f0-be99-4fcd-ba71-9b22aba99774",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2182",
+        "created_on": "2023-06-30"
+    },
+    {
+        "sys_id": "4e9bbf25-0106-4fca-bd40-f76ee315e78e",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2713",
+        "created_on": "2023-11-08"
+    },
+    {
+        "sys_id": "0a6be215-eaff-44d7-8e29-1bb9b2e25669",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC9974",
+        "created_on": "2024-02-21"
+    },
+    {
+        "sys_id": "487ed7b5-9df6-4fca-9524-e1c7905c2695",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7613",
+        "created_on": "2023-03-22"
+    },
+    {
+        "sys_id": "e81d86e5-23c9-4051-b071-c2debd42d48c",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5121",
+        "created_on": "2023-07-04"
+    },
+    {
+        "sys_id": "106769cb-7654-442b-8858-58b81e442dd5",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6631",
+        "created_on": "2023-03-05"
+    },
+    {
+        "sys_id": "fe9fa545-6f07-4770-9dcc-c0de46edd870",
         "state": "New",
         "category": "Database",
         "priority": "3 - Moderate",
         "short_description": "Issue with Database",
         "assignment_group": "Group 01",
-        "number": "INC3434",
-        "created_on": "2024-01-03"
+        "number": "INC9773",
+        "created_on": "2024-01-22"
+    },
+    {
+        "sys_id": "6f819e87-c10b-40ba-8b30-2bf8f25424ae",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2291",
+        "created_on": "2023-07-25"
+    },
+    {
+        "sys_id": "6a5f8b73-22a6-4363-b6dc-1573334135c0",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1696",
+        "created_on": "2023-06-22"
+    },
+    {
+        "sys_id": "5420e9ef-e72e-439b-98a4-e0c350207ef4",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC1547",
+        "created_on": "2023-07-07"
+    },
+    {
+        "sys_id": "2c81e6af-f535-49b1-afde-4402c34c6162",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2423",
+        "created_on": "2023-05-20"
+    },
+    {
+        "sys_id": "cd79c24f-f3da-4f99-b7b2-1d95e85f2080",
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC9503",
+        "created_on": "2023-09-07"
+    },
+    {
+        "sys_id": "9bd51f74-33dd-4733-a205-1c311b923b46",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC3432",
+        "created_on": "2024-02-05"
+    },
+    {
+        "sys_id": "89df626e-b74b-4e97-b189-7a8347eae033",
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1185",
+        "created_on": "2023-07-10"
+    },
+    {
+        "sys_id": "3b881087-8289-42d0-9903-50d4aeec0cf6",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8057",
+        "created_on": "2024-01-01"
+    },
+    {
+        "sys_id": "4b3bc8b9-0aad-4b64-beb9-284dc7253121",
+        "state": "New",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC8553",
+        "created_on": "2023-10-06"
+    },
+    {
+        "sys_id": "21b89400-bf7e-4361-9e7c-b6adec578231",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5749",
+        "created_on": "2023-09-24"
+    },
+    {
+        "sys_id": "b58d9157-7811-43bf-abca-796ff35ba406",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC0786",
+        "created_on": "2023-04-13"
+    },
+    {
+        "sys_id": "31961179-14b1-4692-a2fd-33631809c55e",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC7437",
+        "created_on": "2024-02-03"
+    },
+    {
+        "sys_id": "2ee96985-e6a7-4bc3-a6c4-dcd28ccbf7fb",
+        "state": "New",
+        "category": "Database",
+        "priority": "2 - High",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1984",
+        "created_on": "2023-05-22"
+    },
+    {
+        "sys_id": "476516ea-0185-489f-b298-58731c39fd18",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC6103",
+        "created_on": "2023-11-15"
+    },
+    {
+        "sys_id": "ffc848b3-8b4b-4d49-8891-21fe9d3adec1",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6001",
+        "created_on": "2023-09-18"
+    },
+    {
+        "sys_id": "24a4dfb8-b04d-46b1-99ad-d2053c62be07",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1811",
+        "created_on": "2023-05-15"
+    },
+    {
+        "sys_id": "824e7dd6-9bbd-4cb1-8a6f-ebe060edb053",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6361",
+        "created_on": "2023-03-16"
+    },
+    {
+        "sys_id": "f6d5bdcc-bf1d-4e89-95c4-2834673dee28",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1373",
+        "created_on": "2023-05-25"
+    },
+    {
+        "sys_id": "15250f26-6f89-4379-b605-93d76b67c701",
+        "state": "New",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6468",
+        "created_on": "2023-08-22"
+    },
+    {
+        "sys_id": "b12e8a23-e7b1-476f-bf99-8a0602b70878",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC9059",
+        "created_on": "2023-05-10"
+    },
+    {
+        "sys_id": "9350e363-3e2d-4a66-a92c-185531d82275",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC0961",
+        "created_on": "2024-02-26"
+    },
+    {
+        "sys_id": "5b3d128a-9459-441b-bd31-853f422e2b38",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "2 - High",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC5083",
+        "created_on": "2023-04-04"
+    },
+    {
+        "sys_id": "fa8dbf12-260a-42d2-90b1-bafc63d3675f",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC5529",
+        "created_on": "2023-10-20"
+    },
+    {
+        "sys_id": "2f67f7ca-a697-46d1-b7d1-d5e46a51c3af",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2493",
+        "created_on": "2023-05-23"
+    },
+    {
+        "sys_id": "76ba8aad-09d7-4f47-9a4a-b8eebe2963b0",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC1807",
+        "created_on": "2023-11-16"
+    },
+    {
+        "sys_id": "5dd16bd5-c41e-437a-b6c2-2ad0e389c0c6",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC4726",
+        "created_on": "2023-03-20"
+    },
+    {
+        "sys_id": "572fc0f3-3742-41f1-b354-2c2821899cc7",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "4 - Low",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC9832",
+        "created_on": "2023-07-16"
+    },
+    {
+        "sys_id": "003de931-6977-4187-9bc3-09f931feb6f0",
+        "state": "New",
+        "category": "Hardware",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC2289",
+        "created_on": "2023-04-10"
+    },
+    {
+        "sys_id": "e9876d91-1f30-48a1-ab6d-c2804c234c5d",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC6288",
+        "created_on": "2023-09-23"
+    },
+    {
+        "sys_id": "5f2b388f-f506-411a-9c01-b5a6d6ffc855",
+        "state": "New",
+        "category": "Database",
+        "priority": "5 - Scheduled",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC2659",
+        "created_on": "2023-05-19"
+    },
+    {
+        "sys_id": "110ffc00-9720-4878-ab56-dafe7a9793d9",
+        "state": "Resolved",
+        "category": "Hardware",
+        "priority": "1 - Critical",
+        "short_description": "Issue with Database",
+        "assignment_group": "Group 01",
+        "number": "INC7315",
+        "created_on": "2023-12-02"
+    },
+    {
+        "sys_id": "f4769f31-fe32-4c25-8c80-75c4b6edd501",
+        "state": "Resolved",
+        "category": "Database",
+        "priority": "3 - Moderate",
+        "short_description": "Issue with Hardware",
+        "assignment_group": "Group 01",
+        "number": "INC4666",
+        "created_on": "2023-08-08"
     }
 ]
 }
